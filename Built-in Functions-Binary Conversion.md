@@ -19,3 +19,4 @@ print(b)
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/f253ac30-258b-414c-b5fa-d3f9b8d231b2" />
 
 ## Result
+Thus, the program has been executed successfully.

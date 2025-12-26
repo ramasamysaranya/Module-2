@@ -26,3 +26,4 @@ result(a,b)
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/b1b1fe6d-ab75-4421-9722-ccf2c1739fb6" />
 
 ## Result
+Thus, the program has been executed successfully.
